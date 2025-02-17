@@ -23,8 +23,7 @@ This is a **travel recommendation web application** that allows users to search 
 ---
 ## 💻 Installation & Setup
 
-### **1️⃣ Clone the Repository**
-```sh
+1️⃣ **Clone the Repository**
 git clone https://github.com/your-username/Travel_rec.git
 cd Travel_rec
 
@@ -33,15 +32,11 @@ If you're using VS Code, install the Live Server Extension.
 
 Run Live Server by right-clicking on index.html → "Open with Live Server".
 
-3️⃣ Ensure JSON is Accessible
+3️⃣ **Ensure JSON is Accessible**
 If you're fetching data from travel_rec_api.json, ensure the file is in the correct location and accessible from the browser.
 
-📸 Screenshots
+---
+## 📸 Screenshots
 Home Page:
-![image](https://github.com/user-attachments/assets/3fd0fd78-d111-441d-9fd8-c2b586bf13b6)
-
-
-
-
-
+![home_page](https://github.com/user-attachments/assets/187fdda8-0f0d-4944-9c34-532d4d8cdde1)
 

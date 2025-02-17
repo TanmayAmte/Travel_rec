@@ -24,8 +24,8 @@ This is a **travel recommendation web application** that allows users to search 
 ## 💻 Installation & Setup
 
 1️⃣ **Clone the Repository**
-git clone https://github.com/your-username/Travel_rec.git
-cd Travel_rec
+git clone https://github.com/your-username/Travel_rec.git. Then use "cd Travel_rec" in terminal.
+
 
 2️⃣ **Open with Live Server**
 If you're using VS Code, install the Live Server Extension.

@@ -1,12 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
-<h>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Travel Made Easy!</title>
     <link rel="stylesheet" href="./travel_rec.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="./images/logo.jpg" type="image/x-icon">
 </head>
 <body>
-    
+    <div class="container">
+        <div id="navbar">
+            <div id="logo"></div>
+            <div id="logo_name"><p id="company_name" onclick="" >GoTravels</p></div>
+            <div id="utility_buttons">
+                <button class="utility_button" onclick="window.location.href='travel_rec.html'">Home</button>
+                <button class="utility_button" onclick="window.location.href='about.html'">About Us</button>
+                <button class="utility_button" onclick="window.location.href='contact.html'">Contact</button>
+
+            </div>
+            <div id="search_bar">
+                <input type="text" id="search_input" placeholder="Search...">
+                <button id="search_button" class="utility_button">Search</button>
+                <button id="clear" class="utility_button" onclick="window.location.href='travel_rec.html'">Clear</button>
+            </div>
+        </div>
+        <!-- Content here -->
+        <div id="main_content">
+            <div class="words">
+                <p class="word">WAN</p>
+                <p class="word">DER</p>
+                <p class="word">LUST</p>
+            </div>  
+            <div class="description">
+                <p class="desc">Ignite your passion for adventure and immerse yourself in breathtaking destinations. Experience the beauty of diverse cultures, stunning landscapes, and hidden gems waiting to be explored. Let your journey begin today!</p>
+            </div>
+            <div id="results"></div>
+        </div>
+    </div>
+    <script src="./travel_rec.js"></script>
 </body>
 </html>

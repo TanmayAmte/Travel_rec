@@ -46,4 +46,10 @@ About Us:
 Contact Us:
 ![contact](https://github.com/user-attachments/assets/49bd5af1-261a-4075-8c9d-c1d440b2eca0)
 
+Search:
+#Based on country
+![search1](https://github.com/user-attachments/assets/258a396a-65a4-4c60-b04c-b1f1b1a5b8e5)
+
+#Based on beach
+![search2](https://github.com/user-attachments/assets/c38eb726-bba3-400d-aec6-ba5982f0b442)
 

@@ -40,16 +40,40 @@ If you're fetching data from travel_rec_api.json, ensure the file is in the corr
 Home Page:
 ![home_page](https://github.com/user-attachments/assets/187fdda8-0f0d-4944-9c34-532d4d8cdde1)
 
+
+
+
+
+
 About Us:
-![about_us](https://github.com/user-attachments/assets/87705cf6-4bcd-4a37-baca-a3aff1a3c8d2)
+![about](https://github.com/user-attachments/assets/1687253a-546a-4859-a015-807ac0685ae1)
+
+
+
+
+
 
 Contact Us:
 ![contact](https://github.com/user-attachments/assets/49bd5af1-261a-4075-8c9d-c1d440b2eca0)
+
+
+
+
 
 Search:
 #Based on country
 ![search1](https://github.com/user-attachments/assets/258a396a-65a4-4c60-b04c-b1f1b1a5b8e5)
 
+
+
+
 #Based on beach
 ![search2](https://github.com/user-attachments/assets/c38eb726-bba3-400d-aec6-ba5982f0b442)
+
+
+
+
+#Based on temple
+![search3](https://github.com/user-attachments/assets/1e5fd80b-3237-4d6d-8a7e-99ffef1e2d4b)
+
 

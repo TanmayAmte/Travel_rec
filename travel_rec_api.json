@@ -52,7 +52,7 @@
     "temples": [
       {
         "id": 1,
-        "name": "Angkor Wat, Cambodia",
+        "name": "Angkor Wat, Cambodia (temple)",
         "imageUrl": "./images/angkor.jpg",
         "description": "A UNESCO World Heritage site and the largest religious monument in the world."
       },
